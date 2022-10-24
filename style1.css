@@ -52,7 +52,7 @@ color: black;
  /* ******************* IMAGE PRINCIPALE  ********************** */
 .imagePrincipale {
     padding-top: 60px;
-    background: url(media/iimg.JPG) no-repeat fixed 50% 50%;
+    background: url(media/iimg.JPG) no-repeat fixed 0% 0%;
     background-size:cover;
     height: 488px; 
 
